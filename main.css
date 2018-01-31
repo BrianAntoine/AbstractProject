@@ -1,14 +1,65 @@
-.container3{
+h5{
+color: blue;
+
+}
+
+.container1{
+
+    margin-top: 250px;
+}
+
+.container2{
+
+    margin-top: 100px;
     text-align: center;
 }
 
-.container-fluid{
-max-width: 10opx;
+.container3{
+margin-top: 200px;    
+
 
 }
 
-.resize{
-width: 400px;
-height: auto;
+.rounded-circle1{
+margin-right: 90px;
 
+
+}
+.rounded-circle2{
+    margin-right: 100px;
+    
+    
+    }
+    .rounded-circle3{
+        margin-right: 100px;
+        
+        
+        }
+        .rounded-circle4{
+            margin-right: 90px;
+            
+            
+            }
+.rounded-circle5{
+ margin-right: 90px;
+ }
+
+ .c1{
+margin-right:  100px;
+ }
+ .c2{
+    margin-right:  100px;
+     }
+     .c3{
+        margin-right:  100px;
+         }
+         .c4{
+            margin-right:  100px;
+             }
+             .c5{
+                margin-right:  100px;
+                 }
+
+.hcenter{
+    text-align: center; 
 }
