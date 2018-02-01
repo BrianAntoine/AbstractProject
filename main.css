@@ -18,7 +18,7 @@ color: blue;
 margin-top: 200px;   
 margin: auto;
     width: 100%;
-    border: 3px solid green;
+
     padding: 10px; 
 
 
@@ -28,7 +28,7 @@ margin: auto;
 margin-right: 120px;
 margin: auto;
     width: 10%;
-    border: 3px solid green;
+
  
 
 
@@ -51,12 +51,7 @@ margin: auto;
 .rounded-circle5{
  margin-right: 90px;
  }
- .container-fluid{
-    margin: auto;
-    width: 10%;
-    border: 3px solid green;
-    text-align: center;
-    }
+
 
  .c1{
 margin-right:  450px;
@@ -91,7 +86,7 @@ margin: auto;
 .container-fluid1{
     margin: auto;
     width: 100%;
-    border: 3px solid green;
+   
     text-align: center;
     }
 
